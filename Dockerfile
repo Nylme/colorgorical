@@ -1,4 +1,5 @@
 FROM python:2
+EXPOSE 8888
 
 WORKDIR /usr/src/app
 
