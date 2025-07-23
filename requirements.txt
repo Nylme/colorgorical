@@ -1,0 +1,5 @@
+numpy == 1.10
+tornado == 4.3
+setuptools == 20.7
+matplotlib == 2.2.5
+scikit-learn == 0.20.4

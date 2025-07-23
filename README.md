@@ -31,6 +31,11 @@ Developer Tools C compiler (Apple LLVM version 7.0.2, clang-700.1.81) and with
 gcc v.4.9.2. All client-side dependencies are pre-included and are listed within
 `bower.json`.
 
+Docker
+------
+`docker build -t colorgorical .`
+`docker run -it --rm --name colorgorical-server -p 8888:8888 colorgorical`
+
 About Colorgorical's development
 --------------------------------
 Colorgorical was developed as a research tool to test the relation between color
